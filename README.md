@@ -1,5 +1,6 @@
 # -Automated_Cost_Optimization_for_AWS_EBS_Snapshot_with_Lambda
 
+![ebs_snapshot_with lambda](https://github.com/user-attachments/assets/b7094a75-d5b2-4455-96cb-36a22cde0359)
 
 **#Identifying Stale EBS Snapshots**
 
